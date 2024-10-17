@@ -1,0 +1,6 @@
+https://www.rd.com/list/spot-the-difference/
+A building on the top right, either yellow or pink.
+The color of the entrance to the large building at the top, either blue or yellow.
+The number of windows on a blue building at the center.
+The number of windows on a yellow building at the top.
+The water at the bottom left, with or without an orange buoy.

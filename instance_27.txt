@@ -1,0 +1,6 @@
+https://www.rd.com/list/spot-the-difference/
+The number of yellow fish at the top.
+The number of branches at the top of the green coral.
+The color of a coral on the right, either red or blue.
+The color of a coral at the center, either yellow or orange.
+The number of striped fish.
