@@ -1,0 +1,6 @@
+https://famobi.com/find-500-differences
+The size of the back of the arrow.
+The metal borders of the yellow middle section, corresponding to the 5 points scoring slice.
+The color of the section above the big green section, and below the small yellow section, on the left border, is black or green.
+The color of the bullseye is red or blue.
+The number on the bottom left, below the number 18, is 4 or 6.
