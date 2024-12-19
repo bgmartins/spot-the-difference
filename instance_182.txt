@@ -1,0 +1,9 @@
+https://www.bls.gov
+The size of the building on the left.
+A skyscraper in the middle is missing.
+A set of 2 or 3 towers between the red warehouses.
+The red warehouse on the left has 2 doors in the facade or no doors.
+The color of the building on the right is black or light.
+The title of the article has the text "urban and rural" changed to "rural and urban".
+In the text block on the left side, the text formatting BEYOND THE NUMBERS in bold and capital letters or Beyond the Numbers with normal formatting.
+The last lines of the text block on the right have a hyperlink or normal text.

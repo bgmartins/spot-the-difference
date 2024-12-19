@@ -1,0 +1,9 @@
+https://www.bls.gov
+At the top left side, the text "Occupational Outlook Quartely" is underlined in red or has no underlining.
+At the top right side, the star logo line is painted in blue or black.
+At the top right side, the text block has red lines separating the lines of text or not.
+The man on the left has the cap with the visor forward or backward.
+At the top of the right side, the text block "service technician" duplicated a little larger.
+Below, in the title, in the word "in", the letter "i" has a white or red dot.
+Below, in the title, in the word "organic" the inside of the letter "o" is red or black.
+Below, in the title, in the word "production" the letter"i" has a white or red dot.

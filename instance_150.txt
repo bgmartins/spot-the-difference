@@ -1,0 +1,6 @@
+https://famobi.com/find-500-differences
+The line of mountains on the left side in the background is different.
+Two yellow patches on the road below the corridor are missing.
+A white pole on road side, on the right side, is missing.
+A black pole on the right side is missing.
+The length of the corridor's shadow either reaches the bottom right corner or not.

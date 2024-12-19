@@ -1,0 +1,9 @@
+https://www.bls.gov
+At the top of the left side, the text Fall 2012 has 2012 written in an inverted position.
+At the top right side, the word "Rodeo" is missing.
+The dots in the letter i and the letter j in the text "Using numbers on the job" have a dark green or white center.
+On the calculator keyboard, the number 7 has a dash or is written without a dash.
+On the calculator keyboard, the number 8 is written upside down.
+On the calculator keyboard, in the second row from the bottom, the first key swaps with the last (the number 1 swaps position with the symbol -).
+On the calculator keyboard, in the bottom row the percentage key has circles filled in black or circles with white centers.
+A piece or patch is missing from the bottom of the calculator.

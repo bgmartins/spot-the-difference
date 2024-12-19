@@ -1,0 +1,10 @@
+https://www.bls.gov
+The size of the logo in the upper right corner.
+Below the logo is the text "VOLUME 2/NUMBER 10" or "NUMBER 10 / VOLUME 2".
+The magazine's subtitle is "PAY AND BENEFITS" or "EMPLOYMENT AND UNEMPLOYMENT".
+The egg in the center has the text "RETIREMENT" or no text.
+The pharmacy symbol is painted in full or outlined.
+The credit card has the text MEDICAL or DENTAL.
+In the title of the article the word medical or health.
+Below the article title, the authors' names appear or they are missing.
+On the left side, the first bullet has 6 or 3 lines of text.
