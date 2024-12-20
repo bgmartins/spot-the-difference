@@ -1,5 +1,5 @@
 https://www.rd.com/list/spot-the-difference/
-The color of the sushi roll at the top left corner, either red or green.
+The color of the sushi roll in the top left corner, either red or green.
 The number of sushi rolls in the top right corner.
 The number of sushi rolls in the bottom right corner.
 The orientation of the sushi roll at the bottom left.

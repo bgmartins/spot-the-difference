@@ -3,4 +3,4 @@ The color of the stone in the top right corner, either red or purple.
 The ladybug at the middle, featuring black polka dots in both or just one of the halves.
 The color of the left window in the bottom house, either yellow or blue.
 The number of red flowers in the middle house.
-The top house, with of without a circular window.
+The top house, with or without a circular window.
