@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The string on the edge of the container that has water and ducks.
-The leftmost rubber birth below.
-The duck's eyes below.
+The string on the edge of the container that has water and ducks, on the left side.
 A rubber duck lying in the grass on the right side.
-The flowers in the lower left corner.
+The leftmost rubber duck below.
+The duck's eyes on the right side at the bottom are either present or absent.
+The flowers in the lower right corner.
