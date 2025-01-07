@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
 At the top, the tree's leaves have a different pattern.
 In front of the man at the counter of the building on the left, the tip of the object is different.
-Behind the guardrail, in the center, you can see the tip of a chimney or not.
-The kick of the bike is visible or there is no kick.
-In the lower left corner the sidewalk extends to the corner or not.
+Behind the guardrail, in the center, you can see the tip of a chimney or you cannot.
+The kick of the bike is visible, or there is no kick.
+In the lower left corner, the sidewalk extends to the corner, or it does not.
