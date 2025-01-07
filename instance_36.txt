@@ -1,13 +1,13 @@
 https://comparrotpuzzles.com/download/puzzles-one-to-use/
-Rope on tent is missing.
-Axe handle is shorter.
-Branch on log is missing.
-Knothole on log in fire is missing.
-Branch on tree is missing.
-Extra rock in firepit.
-Bush beside man is different.
-Flame has moved.
-Cloud behind tent has moved.
-Grass behind stump has moved.
-Handle by axe head is different.
-Extra tent peg beside tent.
+The rope on the tent is missing.
+The size of the axe handle.
+The branch on the log is missing.
+The knothole on the log in the fire is missing.
+A branch on the tree is missing.
+There is an extra rock in the fire pit.
+The bush beside the man is different.
+The flame has shifted.
+The cloud behind the tent has shifted.
+The grass behind the stump has been moved.
+The handle by the axe head is different.
+There is an extra tent peg beside the tent.

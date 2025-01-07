@@ -1,6 +1,6 @@
 https://www.sporcle.com/games/Cutthroat/spot-the-difference-i
-A building in the top left just beside the pedestrian street is changed.
+A building at the top left, just beside the pedestrian street, has been changed.
 A white car in the middle left of the image, near a black car, is missing.
 A white van at the bottom, in the middle of the image, is missing.
-A orange patch in the middle of the colored serpentine pedestrian street is changed to red.
-The bottom windows of the white building in the middle of the image, just right of the pedestrian street, are missing.
+The color of one of the patch in the middle of the colored serpentine pedestrian street is either orange or red.
+The bottom windows of the white building in the middle of the image, just to the right of the pedestrian street, are missing.
