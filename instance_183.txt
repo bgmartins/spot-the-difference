@@ -1,7 +1,7 @@
 https://www.bls.gov
-The second truck in the center is red or white.
-The size of the sign post below the train, on the left.
+The second truck in the centre is red or white.
+The size of the signpost below the train, on the left.
 At the end of the right side, the white van is in the right lane or the left lane.
-In the title of the article the word truck or trade.
-In the second line of the article title the word industries or indrustry.
-A blue line between paragraphs of the text block on the left side.
+In the title of the article, the word is "truck" or "trade".
+In the second line of the article title, the word is "industries" or "industry".
+A blue line is between paragraphs of the text block on the left side.

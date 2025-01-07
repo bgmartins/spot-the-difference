@@ -1,14 +1,11 @@
 https://www.bls.gov
 At the top the words of the text "December 2008" are changed to "2008 December".
-The shape of the logo in the top right corner.
+The shape of the logo in the top-right corner.
 At the top the text MONTHLY or MOONTHLY.
-The size of the red strips in the background on the left side.
-The title of the magazine has the words births and deaths swapped to deaths and births.
+The size of the red stripes in the background on the left side.
+The title of the magazine has the words "births" and "deaths" swapped to "deaths" and "births".
 The block of text below the title starts with the word also or in.
 The advertisement in the middle has the text Clearance or as an additional C in the end.
 The writings on the right have the letter F in FIXT written upside down.
 The small advertisement in the background, on the left, has the text LOW or WOW.
 The advertisement in the middle has the letters LE written or EE.
-
-
-
