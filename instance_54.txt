@@ -1,11 +1,11 @@
 https://www.spot-differences.com/spot-the-differences-more/
-The window on the sphere on the left of the image.
-The window on the sphere on the top of the image.
-The pipe between the middle left sphere and the sphere in the middle of the structure is not connecting the spheres.
-The pipe between the sphere in the middle back and the sphere in the right back of the structure is not connecting the spheres.
-The right foot of the man on the right at the bottom.
-The left arm of the man standing up next to the dog.
-The top brick of the building wall.
-The fourth brick from the top of the building wall.
-The right arm of the old lady on the upper window.
-The rectangle brick on the left of the image, below the upper window.
+The window on the sphere to the left of the image.
+The window on the sphere at the top of the image.
+The pipe between the middle-left sphere and the sphere in the middle of the structure is not connecting the spheres.
+The pipe between the sphere at the middle back and the sphere at the right back of the structure is not connecting the spheres.
+The right foot of the man on the right at the bottom of the image.
+The left arm of the man standing next to the dog.
+The top brick of the building's wall.
+The fourth brick from the top of the building's wall.
+The right arm of the old lady in the upper window.
+The rectangular brick to the left of the image, below the upper window.
