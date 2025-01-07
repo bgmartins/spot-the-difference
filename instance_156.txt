@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The size of the building at the end of the street on the left.
+The size of the building at the end of the street, on the left.
 The third window from the partition in the white building on the right is missing.
-The streetlamp on top of the post on the left.
-The shirt of the person on the sidewalk on the left is green or blue.
-The signpost on the sidewalk on the right.
+The streetlamp is on top of the post on the left.
+The shirt of the person on the sidewalk on the left is either green or blue.
+The signpost is on the sidewalk on the right.
