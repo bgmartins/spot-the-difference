@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The top of the leftmost tree reach the upper limit or is lower.
-The road either reaches the grove of trees on the horizon or it doesn't reach there.
+The top of the leftmost tree reaches the upper limit or is lower.
+The road either reaches the grove of trees on the horizon or it doesn't reach that far.
 The bushes on the right side are all the same color or there is one whose green is lighter.
-There is a curb in front of the bicycle or the curb is not there.
-In the bottom there is a tuft of grass in road on the right, or there is no such tuft of grass.
+There is a curb in front of the bicycle or there is no curb.
+At the bottom, there is a tuft of grass on the road to the right, or there is no such tuft of grass.

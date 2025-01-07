@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-In the building located further to the left, there is a window on the roof or it is missing.
-The fifth building from the left has a narrow chimney or is missing.
+In the building located further to the left, there is a window on the roof, or it is missing.
+The fifth building from the left has a narrow chimney, or it is missing.
 The shutters on the third window from the bottom, in the rightmost building, are closed (white) or open (black).
-The bottom center window, in the second building from the right, is shaped like a square or arch.
-The third building from the left has the reflection of the first large window from below in the water or the reflection is missing.
+The bottom center window, in the second building from the right, is shaped like a square or an arch.
+The third building from the left has the reflection of the first large window from below in the water, or the reflection is missing.
