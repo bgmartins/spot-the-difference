@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The bricks on the arch of the left side pillar are damaged or not.
-The hat above the garden bench in the background is red or green.
-The adornment at the base of the arch of the third pillar from the left is white or brick.
-The size of the green grass strip on the right side.
-The base of the second pillar on the left has a patch of green grass or is missing it.
+The bricks on the arch of the left-hand side pillar are damaged or undamaged.
+The hat above the garden bench in the background is either red or green.
+The adornment at the base of the arch of the third pillar from the left is white or made of brick.
+The size of the green grass strip on the right-hand side.
+The base of the second pillar on the left has a patch of green grass or is missing one.
