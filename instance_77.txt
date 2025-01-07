@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The color of the electronic component, with black stripes, in the center of the image.
-The white label with text on the yellow and black electronic component at the top of the image in the center.
+The color of the electronic component, with black stripes, is in the center of the image.
+The white label with text is on the yellow and black electronic component at the top center of the image.
 The text "KB" printed on the board plate to the left of the orange connector.
 The head of the screw that connects the black rectangular component to the piece of metal on the right side.
 The hole in the board plate in the lower right corner.
