@@ -1,6 +1,6 @@
 https://www.rd.com/list/spot-the-difference/
-Orange and yellow sprinkles deleted.
-Text on the measuring cup is deleted.
-Red sprinkles added.
-Green sprinkles changed to blue.
-Green and purple sprinkles deleted.
+The orange and yellow sprinkles have been deleted.
+The text on the measuring cup has been deleted.
+Red sprinkles have been added.
+The green sprinkles have been changed to blue.
+The green and purple sprinkles have been deleted.

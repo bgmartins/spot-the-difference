@@ -1,6 +1,6 @@
 https://www.rd.com/list/spot-the-difference/
-The size of a background building at the middle.
+The size of a background building in the middle.
 The number of buildings in the background.
-The number of wood slats in the middle passage.
-The color of the handle in the leash, either yellow or orange.
+The number of wooden slats in the middle passage.
+The color of the handle on the leash, either yellow or orange.
 The extension of the metal bar further to the left.
