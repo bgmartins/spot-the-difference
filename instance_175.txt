@@ -1,8 +1,8 @@
 https://www.bls.gov
-The magazine logo in the upper right corner lacks the blue line plot.
+The magazine logo in the upper right corner lacks the blue line graph.
 The magazine's subtitle is "EMPLOYMENT and UNEMPLOYMENT" or "EMPLOY AND UNEMPLOY".
-The monitor in the man's hand has a light blue screen or a dark blue screen of death appearance.
-A door on the left edge.
-On the right side there is an open door or just the opening in the wall without a door.
-Text is missing below the Related Articles title on the right side.
+The monitor in the man's hand has a light blue screen or a dark blue screen with a death appearance.
+A door is on the left edge.
+On the right side, there is an open door or just an opening in the wall without a door.
+Text is missing below the "Related Articles" title on the right side.
 The last two lines of text are missing on the left side.
