@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The string on the edge of the container that contains water and ducks on the left side.
-A rubber duck lying in the grass on the right side.
+The string on the edge of the container that contains water and ducks on the left side, is missing.
+A rubber duck lying in the grass on the right side is missing.
 The leftmost rubber duck below is either present or absent.
 The duck's eyes on the right side at the bottom are either visible or absent.
-The flowers are located in the lower right corner.
+The flowers in the lower right corner are missing.

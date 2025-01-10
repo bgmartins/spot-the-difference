@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The snow at the top of the mountain extends further downwards.
-Some birds fly in the sky above the branch of the tree on the left-hand side.
-The flowers are in the upper left corner.
-The flowers are on the branches above the mountain.
+The number of flowers in the upper left corner.
+The number of flowers on the branches above the mountain.
 The tip of the tree branch extends to the left-hand side of the image.
+Some birds fly in the sky above the branch of the tree on the left-hand side or are missing.
+The size of the snow at the top of the mountain extends further downwards.

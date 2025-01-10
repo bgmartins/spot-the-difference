@@ -1,7 +1,4 @@
 https://www.rd.com/list/spot-the-difference/
-The top-left corner, with or without a white bus.
-The color of a car at the top, either blue or green.
-The number of white lanes at the top.
-The color of a car at the center, either red or blue.
-The number of cars at the bottom.
-The direction of one of the arrows on the pavement.
+The color of a car at the top right is either red or blue.
+The shape of one of the arrows on the pavement is different.
+In the bottom on the left, a car on the fifth lane is present or absent.

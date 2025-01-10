@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-A branch with white flowers in the top left corner.
-The brick pattern in the middle of the wall.
+A branch with light colored flowers in the top left corner is missing.
+The brick pattern in the middle of the wall is different.
 There are 2 or 3 horizontal green leaf branches on the left.
 The bottom part of the right shutter lacks a horizontal board.
 The gray cement covering the bricks is damaged, exposing more bricks at the bottom right.

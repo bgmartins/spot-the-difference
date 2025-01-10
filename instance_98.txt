@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The color of the worker's hat in the center of the image.
-The piece of wood on the floor in front of the worker in the center of the image.
-The panel on the face of the orange container on the left.
 The size of the horizontal tubes in the upper right corner.
-The wooden panel on the floor, at the bottom left of the image.
+The color of the worker's hat in the center of the image is either blue or purple.
+There are 1 or 2 wooden beams on the floor in front of the worker in the center of the image.
+The panel on the face of the orange container on the left is missing.
+There are 1 or 2 wooden panels on the floor, at the bottom left of the image.

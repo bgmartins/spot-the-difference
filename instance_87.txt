@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The colour of the leaves on the leftmost tree.
-The horizontal divisions between the floors of the building, above the tree on the left.
-The basket on the basketball backboard.
-The three rightmost blue plastic seats.
-The windows in the column to the right of the central column, on the second-to-last floor.
+Two horizontal divisions between the floors of the building, above the tree on the left, are missing.
+The windows in the column to the right of the central column, on the second-to-last floor, are different.
+The color of the leaves on the leftmost tree is either dark green or light green.
+The basket on the basketball backboard is missing.
+On the right, there are either 2 or 3 sets of 3 blue plastic benches.

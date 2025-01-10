@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The two windows at the top of the white building on the left.
-The open green shutters of the left-hand window on the middle floor of the building in the center of the image.
-The text "Tavern" on the awning above the door of the building on the left.
+There are 2 or 4 windows on the white building on the left.
+The green shutters of the left-hand window on the middle floor of the building in the center of the image are open or closed.
+The word 'Tavern' is written on the awning above the door of the building on the left, or it is missing.
 The height of the rightmost building.
-The advertising on the notice board next to the floor on the right-hand side at a person's feet.
+The notice board next to the floor on the right-hand side, near a person's feet, either has drawings or is blank.

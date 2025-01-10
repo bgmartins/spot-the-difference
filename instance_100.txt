@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The black plate on the fuel tank of the leftmost motorcycle in the background.
-A car is visible between the fence rails at the top of the image, on the left side.
-The color of the back tip of the front wheel fender of the red motorcycle, in the foreground.
-The support stand of the red motorcycle in the foreground.
-The white wall between the foliage in the upper right corner.
+The fuel tank of the leftmost motorcycle in the background has a black plate or not.
+Between the fence rails at the top of the image, on the left side, a car is visible or not.
+The color of the back tip of the front wheel fender of the red motorcycle, in the foreground, is either beige or red.
+The red motorcycle in the foreground has a support stand over a wooden board or not.
+The white wall between the foliage in the upper right corner is missing.

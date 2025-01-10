@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-A green light reflection below the roof, next to the window.
-The wristwatch bracelet on the man's arm.
-The window on the wall to the left of the house.
-The window in the roof to the left of the house.
-The white strip on the right shoe of the man.
+A green light reflection below the roof, next to the window, is visible or it is missing.
+The wristwatch bracelet on the man's arm is missing.
+The window on the wall to the left of the house is missing.
+There are 1 or 2 windows in the roof of the house.
+The white strip on the right shoe of the man is visible or it is missing.

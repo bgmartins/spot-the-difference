@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The buoy hangs closer to the back of the boat.
-The vertical windows in the white wall on the right side of the building, above the boat.
-The oval window at the front of the boat.
-The antennas above the boat on the right side.
-The top of the white mast, left side of the image, above the boat.
+The size of the white mast, left side of the image, above the boat.
+The antennas above the boat on the right side are visible or missing.
+The vertical windows in the white wall on the building on the left side, above the boat, are missing.
+The oval window at the front of the boat is missing.
+The number of buoys hanging from the boat is 3 or 4.

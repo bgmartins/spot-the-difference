@@ -1,6 +1,6 @@
 https://www.sporcle.com/games/Cutthroat/spot-the-difference-i
-The branch on the tree is in the upper right corner of the image.
-The man in the distance is above the chest of the animal statue.
-The shadow of a plant is on the middle left part of the image.
-The color of the flower is on the middle right side of the image.
-The ground in the bottom left corner.
+A branch on the tree is in the upper right corner of the image is present or absent.
+A man in the distance is visible above the chest of the animal statue or it is absent.
+The shadow of a plant on the middle left side is visible or it is absent.
+The color of the flower on the middle right is white or pink.
+The ground in the bottom left corner is dark or light brown.

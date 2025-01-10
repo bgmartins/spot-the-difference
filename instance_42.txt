@@ -1,6 +1,6 @@
 https://www.sporcle.com/games/Cutthroat/spot-the-difference-i
-The airplane in the top left corner.
-The dials on the clock on the tower.
+The airplane in the top left corner is present or absent.
+The dials on the clock on the tower in different position.
+The cross at the top of the lamppost is present or it is missing.
 The number on the red bus is 12 or 20.
-The color of the shirt of the man walking on the bridge.
-The cross at the top of the lamppost.
+The color of the shirt of the man walking on the bridge is white or dark.

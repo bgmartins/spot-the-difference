@@ -1,6 +1,6 @@
 https://www.rd.com/list/spot-the-difference/
 The color of the sushi roll in the top left corner is either red or green.
 The number of sushi rolls is in the top right corner.
-The number of sushi rolls is in the bottom right corner.
-The orientation of the sushi roll is at the bottom left.
 The color of a nigiri sushi on the left is either green or orange.
+The orientation of the sushi roll is at the bottom left is flipped.
+The number of sushi rolls is in the bottom right corner.

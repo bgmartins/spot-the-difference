@@ -1,5 +1,6 @@
 https://famobi.com/find-500-differences
-The small vent on the right of the top-left window.
-The vertical green line that divides the panes of the lower-left window.
+The small vent on the right of the top-left window is present or it is absent.
+The number of vertical green lines that divides the panes of the lower-left window, 1 or 2.
 The size of the window extends from top to center.
-The wall chair between the door and the window on the right side.
+The wall lamp between the door and the window on the right side is missing.
+The color of the stain on the stone wall, in the bottom, is dark or purple.

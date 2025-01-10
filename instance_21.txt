@@ -1,6 +1,6 @@
 https://www.rd.com/list/spot-the-difference/
-The number of cliffs in the background.
-The number of swimmers in the ocean.
+The number of hills in the background, one more to the right.
+The number of swimmers in the ocean, on the left.
 The color of the lounge chair is either orange or yellow.
-The number of closed umbrellas in the middle, near the water.
-The striped umbrella is either blue or red.
+In the middle near the water, above the orange chair, a closed umbrella is present or absent.
+The striped umbrella in the right is either blue or red.

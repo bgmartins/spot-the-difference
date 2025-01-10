@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
+The tent has 1 or 2 windows in the background.
+The color of the table lamp's shade is green or orange.
+There size of the boards of the base of the wooden table in the center of the image.
 The size of the fabric ball in the lower left corner.
-The color of the table lamp's shade.
-The horizontal separation line of the wooden furniture baseboards in the center of the image.
-The window on the right in the background.
-A green leaf at the bottom of the image on the right.
+A green leaf at the bottom right is missing.

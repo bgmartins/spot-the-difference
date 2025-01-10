@@ -1,5 +1,5 @@
 https://www.sporcle.com/games/Cutthroat/spot-the-difference-i
-The center of the circular window of the church.
-A statue on the left of the row of statues on the building.
-The statue on the right, in the wall next to the doors of the cathedral.
+The center of the circular window of the church is dark or gray.
+The row of statues in the building's midsection has one more or one fewer statue.
+The statue on the right, on the wall next to the cathedral doors, is either the same as the one on the left or different.
 The two people in the center, just in front of the doors of the cathedral, swapped places.

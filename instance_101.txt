@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-A red spot on a black background in the upper left corner.
+A red spot on a black background in the upper left corner is missing.
 The sushi roll filling on the left border is red or missing.
-A piece of orange food on top of the greens inside the bowl.
+A piece of orange food on top of the greens inside the bowl is missing.
 The decorative drawings on the plate on the left side do not reach the border.
-A piece of food on a square plate at the bottom, in the center, is green or red.
+A food paste on a square plate at the bottom, in the center, is green or red.

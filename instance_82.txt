@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The colour of the centre of the disc player.
-The cover on the speaker in the top left corner.
-Colourful graphics on the laptop monitor.
-The position of the bench under the table top closest to the right-hand side.
-The rectangle on the laptop below the keyboard.
+Colorful graphics on the laptop monitor are missing.
+The cover on the speaker in the top left corner has a white circle or not.
+The color of the center of the disc player us gray or white.
+The touchpad below the keyboard on the laptop is missing.
+The size of the bench under the table.

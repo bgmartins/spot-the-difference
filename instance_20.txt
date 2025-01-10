@@ -1,6 +1,5 @@
 https://www.rd.com/list/spot-the-difference/
-The orange and yellow sprinkles have been deleted.
-The text on the measuring cup has been deleted.
-Red sprinkles have been added.
-The green sprinkles have been changed to blue.
-The green and purple sprinkles have been deleted.
+The orange and yellow sprinkles have been deleted in the top left corner.
+The text on the measuring cup has been deleted in the top right.
+The green and purple sprinkles have been removed from the donut in the center.
+The green sprinkles have been changed to blue in the donut on the bottom right.

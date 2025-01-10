@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The yellowest sign on the ground on the left side.
-The color of the container in the third row, second column, on the left side.
-The crane above the green containers between the other two cranes, one also on top of the green containers and the other above the red containers.
-The number "02" is painted on the floor.
-The blue crane above the blue container on the right.
+The number of cranes visible above the containers on the left is 2 or 3.
+The blue crane above the blue container on the right is visible or it is missing.
+The color of the container in the third row, second column, on the left side, is red or violet.
+The number of yellow signs on the ground, on the left bottom side, is 3 or 2.
+The text "02" or "00" is painted on the floor.

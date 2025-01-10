@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The word "Compact" is painted on the floor, in the center, below.
-The misaligned paint stripes in the center of the image on the left side.
-The text "Row F Level P5" painted on the green wall in front of the left side.
-The white stripe of the third pillar in the right-hand row.
 The vertical tube at the top runs across the front of the image.
+The text "Row F Level P5" painted on the green wall in front of the left side.
+The paint stripes in the center of the image on the left side are misaligned or aligned verticaly. 
+The stripe of the third pillar in the right-hand row is painted white or green.
+The word "Compact" is painted on the floor, in the center, below, or it is missing.

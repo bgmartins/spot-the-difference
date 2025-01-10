@@ -2,5 +2,5 @@ https://www.rd.com/list/spot-the-difference/
 The top left corner, with or without a green leaf.
 The top right corner, with or without a green orange.
 The number of oranges on the plate, with or without an additional small orange.
-The color of the leaf on an orange at the bottom of the plate, either green or brown.
-The color of the small orange on the left, either green or red.
+The color of the leaf on an orange at the bottom of the plate is either green or brown.
+The color of the small orange on the left is either green or red.

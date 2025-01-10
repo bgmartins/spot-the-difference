@@ -1,6 +1,6 @@
 https://famobi.com/find-500-differences
-The smaller hot air balloon on the left above the slightly larger one.
-The color of one of the red patches on the right side, in the middle of the larger balloon.
-The clouds are at the top on the right side.
+A smaller hot air balloon on the left above the clouds is missing.
+The color of patches on the right side, in the middle of the larger balloon, is either red or orange.
+The shape of the clouds at the top on the right side is different.
 There are 2 small balloons, or 5, in the background on the right side.
-The color of the lower balloon in the center.
+The color of the lower balloon in the center is orange or green.
