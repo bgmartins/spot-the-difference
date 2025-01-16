@@ -1,4 +1,4 @@
-https://www.bls.gov
+https://www.bls.gov/k12/games/spot-the-difference/
 At the top left, the logo color is either black or red.
 At the top right, the text "Grab bag" is strictly mirrored.
 At the top left, the last line of the text block contains the word "Spring" or "Sprung".

@@ -1,4 +1,4 @@
-https://www.bls.gov
+https://www.bls.gov/k12/games/spot-the-difference/
 At the top of the left side, the first circle of the logo, whether there is a white ball in the center or not.
 On the top right side, the text block is formatted with left or right alignment.
 The title says "2008-18" or "2008-10".

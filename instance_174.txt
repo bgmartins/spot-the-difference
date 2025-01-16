@@ -1,4 +1,4 @@
-https://www.bls.gov
+https://www.bls.gov/k12/games/spot-the-difference/
 At the top left side, the text "Occupational Outlook Quarterly" is underlined in red or has no underlining.
 At the top right side, the star logo is painted in blue or black.
 At the top right side, the text block has red lines separating the lines of text or has no lines.
